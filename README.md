@@ -52,11 +52,9 @@
 
 4. Click [FORK](https://github.com/darkalphaxteam/QUEEN-BIXBY-MD-PRO-NEW/fork)
 
-5. Click the url showing below to copy deploy template
-
+5. Click the button showing below to deploy
 ```
-
-https://heroku.com/deploy?template=https://github.com/darkalphaxteam/QUEEN-BIXBY-MD-PRO-NEW
+[Deploy](https://heroku.com/deploy)
 
 ``` 
 
