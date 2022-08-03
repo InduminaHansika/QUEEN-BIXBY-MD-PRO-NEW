@@ -53,10 +53,8 @@
 4. Click [FORK](https://github.com/darkalphaxteam/QUEEN-BIXBY-MD-PRO-NEW/fork)
 
 5. Click the button showing below to deploy
-```
-[Deploy](https://heroku.com/deploy)
 
-``` 
+[Deploy](https://heroku.com/deploy)
 
 6. Now change `darkalphaxteam´ with your github username and click ENJOY<br>
 
